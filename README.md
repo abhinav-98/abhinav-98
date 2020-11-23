@@ -1,6 +1,8 @@
-### Hi there, I'm Abhinav Goswami 👋
+### Hi there, I'm [Abhinav Goswami!](https://amankrjagdev.web.app)👋
 
-[![Twitter Follow](https://img.shields.io/instagram/follow/abhinav__28?color=1DA1F2&logo=instagram&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<a href="https://www.instagram.com/abhinav__28//">
+  <img align="left" alt="Abhinav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
