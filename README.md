@@ -6,17 +6,17 @@
   <img align="left" alt="Abhinav's Linkded-in" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> <br>
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## Java | Web Developer
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+Currently learning full stack web development because elegance is what intrigues me and it's fun.
+
+- 👯 I’m looking to collaborate on projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to play CSGO.
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Abhinav's Spotify Playing" width="350" />](https://open.spotify.com/album/1QyFabfG0D65gG2IYS3NEy?highlight=spotify:track:0J67SeAqemmeTxZ5K4X33E)
 
 ### Connect with me:
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
