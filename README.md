@@ -1,7 +1,7 @@
 ### Hi there, I'm [Abhinav Goswami!](https://github.com/abhinav.98/)👋 
 ## Java | Web Developer
 
-Currently learning full stack web development because elegance is what intrigues me and it's fun.
+Currently learning elements of full stack web development because elegance is what intrigues me and it's fun. I believe in constant learning and growing.
 
 - 👯 I’m looking to collaborate on projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
