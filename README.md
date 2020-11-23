@@ -7,6 +7,8 @@ Currently learning elements of full stack web development because elegance is wh
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play CSGO.
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Abhinav's Spotify Playing" width="350" />](https://open.spotify.com/album/1QyFabfG0D65gG2IYS3NEy?highlight=spotify:track:0J67SeAqemmeTxZ5K4X33E)
