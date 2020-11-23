@@ -1,11 +1,4 @@
 ### Hi there, I'm [Abhinav Goswami!](https://amankrjagdev.web.app)👋 
-<a href="https://www.instagram.com/abhinav__28//">
-  <img align="left" alt="Abhinav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> 
-<a href="https://www.linkedin.com/in/abhinav28goswami/">
-  <img align="left" alt="Abhinav's Linkded-in" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> <br>
-
 ## Java | Web Developer
 
 Currently learning full stack web development because elegance is what intrigues me and it's fun.
@@ -19,11 +12,12 @@ Currently learning full stack web development because elegance is what intrigues
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Abhinav's Spotify Playing" width="350" />](https://open.spotify.com/album/1QyFabfG0D65gG2IYS3NEy?highlight=spotify:track:0J67SeAqemmeTxZ5K4X33E)
 
 ### Connect with me:
-<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/abhinav__28//">
+  <img align="left" alt="Abhinav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a> 
+<a href="https://www.linkedin.com/in/abhinav28goswami/">
+  <img align="left" alt="Abhinav's Linkded-in" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 <br />
 
